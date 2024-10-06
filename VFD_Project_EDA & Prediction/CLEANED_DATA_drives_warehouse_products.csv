@@ -1,0 +1,741 @@
+Drive_Name,Price,Stock,Motor_Type,Drive_Type,HP_rating,kW_rating
+ODE-3-120070-1F12,298.0,In Stock,,,,
+ODE-3-120023-1F1B,475.2,In Stock,,,,
+ODE-3-210058-104B,681.6,2-4 Weeks,,,5.0,
+EP66-0075T3I2U5,1265.49,In Stock,Constant Torque,VFD,10.0,5.0
+EP66-0110T3I3U5,1380.36,In Stock,Constant Torque,VFD,15.0,11.0
+E2100-0185T3E6,1127.37,In Stock,Closed-loop Vector Control,VFD,25.0,19.0
+E2100-0220T3E6,1270.34,In Stock,Closed-loop Vector Control,VFD,30.0,22.0
+E2100-0300T3E6,1613.04,In Stock,Closed-loop Vector Control,VFD,40.0,30.0
+E2100-0370T3E7,2017.04,In Stock,Closed-loop Vector Control,VFD,50.0,37.0
+E2100-0450T3E7,2274.39,In Stock,Closed-loop Vector Control,VFD,60.0,45.0
+EP66-0150T3I3U5,2440.79,In Stock,Constant Torque,VFD,20.0,15.0
+E2100-0550T3C51,3448.73,In Stock,Closed-loop Vector Control,VFD,75.0,55.0
+E2100-0750T3C51,3599.66,In Stock,Closed-loop Vector Control,VFD,100.0,75.0
+E2100-0900T3C61,4811.54,In Stock,Closed-loop Vector Control,VFD,120.0,90.0
+E2100-1100T3C61,5169.66,In Stock,Closed-loop Vector Control,VFD,150.0,110.0
+E2100-1320T3C61,5690.91,In Stock,Closed-loop Vector Control,VFD,175.0,132.0
+E2100-1600T3C7,8353.04,In Stock,Closed-loop Vector Control,VFD,215.0,160.0
+E2100-1850T3C8,9904.68,In Stock,Closed-loop Vector Control,VFD,248.0,185.0
+E600-0002S2Q1,141.38,In Stock,Variable Torque,VFD,25.0,2.0
+E600-0002S2Q2,143.51,In Stock,Variable Torque,VFD,25.0,2.0
+E600-0004S2Q2,146.22,In Stock,Variable Torque,VFD,5.0,4.0
+E600-0004S2Q1,148.95,In Stock,Variable Torque,VFD,5.0,4.0
+E600-0007S2Q1,157.67,In Stock,Variable Torque,VFD,1.0,75.0
+E600-0007S2Q2,158.6,In Stock,Variable Torque,VFD,1.0,75.0
+E600-0015S2Q1,161.42,In Stock,Variable Torque,VFD,2.0,5.0
+E600-0015S2Q2,163.92,In Stock,Variable Torque,VFD,2.0,5.0
+E600-0002T3Q1,165.8,In Stock,Variable Torque,VFD,25.0,2.0
+E600-0004T3Q1,167.97,In Stock,Variable Torque,VFD,5.0,4.0
+E2100-0002S2E1,169.5,In Stock,Closed-loop Vector Control,VFD,25.0,2.0
+E2100-0004S2E1,173.13,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+DRM025,160.0,In Stock,Din Rail Mountable,,4.0,
+DRM025-1,160.0,In Stock,Din Rail Mountable,,8.0,
+E600-0002T3Q2,181.73,In Stock,Variable Torque,VFD,25.0,2.0
+E600-0007T3Q1,182.58,In Stock,Variable Torque,VFD,1.0,75.0
+WJ200-002LF,198.0,In Stock,Constant Torque,,4.0,
+E600-0004T3Q2,183.92,In Stock,Variable Torque,VFD,5.0,4.0
+E2100-0007S2E1,184.23,In Stock,Closed-loop Vector Control,VFD,1.0,75.0
+E600-0022S2Q2,186.53,In Stock,Variable Torque,VFD,3.0,2.0
+E600-0015T3Q1,191.79,In Stock,Variable Torque,VFD,2.0,5.0
+WJ200-002SF,198.0,In Stock,Constant Torque,,,
+DRM050-1,175.0,In Stock,Din Rail Mountable,,4.0,
+ODE-3-120023-1F12,218.4,In Stock,,,5.0,
+E2100-0015S2E1,195.48,In Stock,Closed-loop Vector Control,VFD,2.0,5.0
+E600-0007T3Q2,199.35,In Stock,Variable Torque,VFD,1.0,75.0
+NES1-007LB,269.0,In Stock,Variable Torque,VFD,1.0,7.0
+ODE-3-110023-1012,235.2,In Stock,,,2.0,
+E600-0015T3Q2,216.15,In Stock,Variable Torque,VFD,2.0,5.0
+C1-002SFU2,198.0,In Stock,Constant Torque,,25.0,
+C1-002LFU2,198.0,In Stock,Constant Torque,,25.0,
+ODE-3-120043-1F12,252.0,In Stock,,,1.0,
+ODE-3-120023-3012,259.2,In Stock,,,5.0,
+E2100-0004S1E2,232.62,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+E2100-0022S2E2,234.69,In Stock,Closed-loop Vector Control,VFD,3.0,2.0
+WJ200-004SF,218.4,In Stock,Constant Torque,,,
+ODE-3-110043-1012,271.2,2-4 Weeks,,,1.0,
+C1-004LFU2,218.4,In Stock,Constant Torque,,5.0,
+C1-004SFU2,218.4,In Stock,Constant Torque,,5.0,
+E600-0022T3Q2,243.23,In Stock,Variable Torque,VFD,3.0,2.0
+ODE-3-120043-3012,273.6,In Stock,,,1.0,
+NES1-015SB,324.0,In Stock,Variable Torque,VFD,2.0,5.0
+E2100-0002T3E1,254.1,In Stock,Closed-loop Vector Control,VFD,25.0,2.0
+NES1-004LB,233.0,In Stock,Variable Torque,VFD,2.0,4.0
+E600-0030T3Q2,256.73,In Stock,Variable Torque,VFD,4.0,3.0
+E2100-0007S1E2,258.02,In Stock,Closed-loop Vector Control,VFD,1.0,8.0
+E2100-0004T2E1,259.58,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+E2100-0004T3E1,262.35,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+E2100-0007T2E1,268.49,In Stock,Closed-loop Vector Control,VFD,1.0,75.0
+E2100-0007T3E1,269.1,In Stock,Closed-loop Vector Control,VFD,1.0,75.0
+DRM075,243.0,In Stock,Din Rail Mountable,,4.0,
+DRM100,243.0,In Stock,Din Rail Mountable,,1.0,
+NES1-004HB,318.0,In Stock,Variable Torque,VFD,2.0,4.0
+C1-007LFU2,247.2,In Stock,Constant Torque,,1.0,
+C1-004HFU2,249.0,In Stock,Constant Torque,,5.0,
+E2100-0015T3E1,279.81,In Stock,Closed-loop Vector Control,VFD,2.0,5.0
+ODE-3-140022-3F12,321.6,In Stock,,,1.0,
+NES1-007HB,340.0,In Stock,Variable Torque,VFD,1.0,7.0
+E600-0040T3Q2,293.85,In Stock,Variable Torque,VFD,25.0,4.0
+ODE-3-120023-1F1A,333.6,In Stock,,,5.0,37.0
+DRM100-1,273.0,In Stock,Din Rail Mountable,,2.0,
+ODE-3-120023-301A,350.4,In Stock,,,5.0,37.0
+ODE-3-140041-3F12,350.4,In Stock,,,2.0,
+WJ200-015SF,312.6,In Stock,Constant Torque,,,
+E2100-0022T3E2,316.19,In Stock,Closed-loop Vector Control,VFD,3.0,2.0
+E2100-0015T2E1,322.22,In Stock,Closed-loop Vector Control,VFD,2.0,5.0
+C1-007HFU2,294.6,In Stock,Constant Torque,,1.0,
+ODE-3-120043-301A,374.4,In Stock,,,1.0,75.0
+ODE-3-120043-1F1A,374.4,In Stock,,,1.0,75.0
+E600-0055T3Q2,337.56,In Stock,Variable Torque,VFD,5.0,5.0
+ODE-3-220070-1F42,381.6,In Stock,,,2.0,
+DRM150,308.0,In Stock,Din Rail Mountable,,5.0,
+DRM150-1,308.0,In Stock,Din Rail Mountable,,4.0,
+ODE-3-210058-1042,388.8,In Stock,,,5.0,
+C1-015LFU2,312.6,In Stock,Constant Torque,,2.0,
+C1-015SFU2,312.6,In Stock,Constant Torque,,2.0,
+E2100-0022T2E2,348.18,In Stock,Closed-loop Vector Control,VFD,3.0,2.0
+C1-015HFU2,315.6,In Stock,Constant Torque,,2.0,
+ODE-3-220070-3F42,398.4,In Stock,,,2.0,
+DRM025i,320.0,In Stock,Din Rail Mountable,,4.0,
+NES1-015LB,335.0,In Stock,Variable Torque,VFD,2.0,5.0
+E2100-0015S1E4,363.23,In Stock,Closed-loop Vector Control,VFD,2.0,5.0
+ODE-3-240041-3F42,408.0,2-4 Weeks,,,2.0,
+OC2-100,380.0,3-5 Days,,,1.0,
+OC2-50,380.0,3-5 Days,,,2.0,
+OC2-75,380.0,3-5 Days,,,4.0,
+DRM050i-1,330.0,In Stock,Din Rail Mountable,,4.0,
+OC2-76,385.0,3-5 Days,,,4.0,
+OC2-101,385.0,3-5 Days,,,1.0,
+OC2-26,385.0,3-5 Days,,,4.0,
+OC2-51,385.0,3-5 Days,,,2.0,
+DRM050i,335.0,In Stock,Din Rail Mountable,,2.0,
+ODE-3-220105-3F42,422.4,In Stock,,,3.0,
+ODE-3-220105-1F42,422.4,In Stock,,,3.0,
+NES1-015HB,355.0,In Stock,Variable Torque,VFD,2.0,5.0
+E2100-0030T3E2,384.21,In Stock,Closed-loop Vector Control,VFD,4.0,3.0
+DRM200,349.0,In Stock,Din Rail Mountable,,2.0,
+DRM200-1,349.0,In Stock,Din Rail Mountable,,1.0,
+ODE-3-120023-301B,436.8,In Stock,,,5.0,37.0
+ODE-3-240058-3F42,436.8,In Stock,,,3.0,
+ODE-3-110043-101A,439.2,2-4 Weeks,,,1.0,
+E2100-0030T2E2,392.72,In Stock,Closed-loop Vector Control,VFD,4.0,3.0
+ODE-3-120070-1F1A,441.6,In Stock,,,2.0,5.0
+E2100-0022S1E4,394.38,In Stock,Closed-loop Vector Control,VFD,3.0,2.0
+ODE-3-140022-3F1A,446.4,In Stock,,,1.0,75.0
+NES1-022LB,359.0,In Stock,Variable Torque,VFD,3.0,2.0
+P1-00044-LFUF,467.4,In Stock,Constant Torque,VFD,2.0,4.0
+ODE-3-120043-301B,453.6,In Stock,,,1.0,75.0
+DRM075i,368.0,In Stock,Din Rail Mountable,,4.0,
+C1-022HFU2,369.6,In Stock,Constant Torque,,3.0,
+WJ200-022SF,372.6,In Stock,Constant Torque,,,
+C1-022LFU2,372.6,In Stock,Constant Torque,,3.0,
+C1-022SFU2,372.6,In Stock,Constant Torque,,3.0,
+NES1-040HB,492.0,In Stock,Variable Torque,VFD,5.0,0.0
+OC2-25,380.0,3-5 Days,,,4.0,
+ODE-3-120023-1F1B,475.2,In Stock,,,5.0,37.0
+OC2-150,385.0,3-5 Days,,,5.0,
+ODE-3-320180-3F42,480.0,In Stock,,,5.0,
+OC2-200,385.0,3-5 Days,,,2.0,
+P1-00080-LFUF,486.6,In Stock,Constant Torque,VFD,1.0,75.0
+DRM100i,395.0,In Stock,Din Rail Mountable,,1.0,
+DRM100i-1,395.0,In Stock,Din Rail Mountable,,2.0,
+E2100-0040T3E2,439.22,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+NES1-022HB,400.0,In Stock,Variable Torque,VFD,3.0,2.0
+ODE-3-120043-1F1B,508.8,In Stock,,,1.0,75.0
+EM30-0004T2J1U5,461.46,In Stock,VF Control,VFD,5.0,4.0
+EM30-0007T2J1U5,461.46,In Stock,VF Control,VFD,1.0,75.0
+E2100-0040T2E4,465.27,In Stock,Closed-loop Vector Control,VFD,5.0,4.0
+WJ200-030HF,455.0,In Stock,Constant Torque,,4.0,0.0
+C1-037LFU2,421.2,In Stock,Constant Torque,,5.0,
+ODE-3-220070-3F4A,528.0,In Stock,,,2.0,5.0
+EM30-0004S2J1U5,470.67,In Stock,VF Control,VFD,5.0,4.0
+EM30-0007S2J1U5,470.67,In Stock,VF Control,VFD,1.0,75.0
+ODE-3-240095-3F42,494.4,2-4 Weeks,,,5.0,
+ODE-3-120070-301B,535.2,In Stock,,,2.0,5.0
+EM30-0015T2J1U5,482.45,In Stock,VF Control,VFD,2.0,5.0
+ODE-3-110043-101B,549.6,In Stock,,,1.0,
+P1-00104-LFUF,569.4,In Stock,Constant Torque,VFD,2.0,5.0
+EM30-0015S2J1U5,493.37,In Stock,VF Control,VFD,2.0,5.0
+OC2i-100,625.0,3-5 Days,,,1.0,
+OC2i-25,625.0,3-5 Days,,,4.0,
+OC2i-50,625.0,3-5 Days,,,2.0,
+OC2i-75,625.0,3-5 Days,,,4.0,
+OC2r-100,630.0,3-5 Days,,,1.0,
+OC2r-25,630.0,3-5 Days,,,4.0,
+OC2r-50,630.0,3-5 Days,,,2.0,
+OC2r-75,630.0,3-5 Days,,,4.0,
+C1-030HFU2,450.6,In Stock,Constant Torque,,4.0,
+EM30-0022T2J1U5,503.93,In Stock,VF Control,VFD,3.0,2.0
+ODE-3-220105-3F4A,571.2,In Stock,,,3.0,2.0
+ODE-3-220105-1F4A,571.2,In Stock,,,3.0,2.0
+ODE-3-210058-104A,576.0,In Stock,,,5.0,
+ODE-3-140022-3F1B,576.0,In Stock,,,1.0,75.0
+DRM200i,465.0,In Stock,Din Rail Mountable,,2.0,
+DRM200i-1,465.0,In Stock,Din Rail Mountable,,1.0,
+ODE-3-120070-1F1B,580.8,2-4 Weeks,,,2.0,50.0
+EM30-0022S2J1U5,521.31,In Stock,VF Control,VFD,3.0,2.0
+OC2r-76,635.0,3-5 Days,,,4.0,
+OC2i-101,630.0,3-5 Days,,,1.0,
+OC2i-26,630.0,3-5 Days,,,4.0,
+OC2i-51,630.0,3-5 Days,,,2.0,
+OC2i-76,630.0,3-5 Days,,,4.0,
+OC2r-101,635.0,3-5 Days,,,1.0,
+OC2r-26,635.0,3-5 Days,,,4.0,
+OC2r-51,635.0,3-5 Days,,,2.0,
+EM30-0007T3J1U5,528.51,In Stock,VF Control,VFD,1.0,75.0
+ODE-3-240041-3F4A,595.2,In Stock,,,2.0,5.0
+ODE-3-240058-3F4A,600.0,In Stock,,,3.0,2.0
+EM30-0030T2J1U5,535.64,In Stock,VF Control,VFD,4.0,3.0
+E2100-0055T3E4,541.61,In Stock,Closed-loop Vector Control,VFD,8.0,5.0
+ODE-3-220070-3F4B,614.4,2-4 Weeks,,,2.0,5.0
+EM30-0015T3J1U5,548.28,In Stock,VF Control,VFD,2.0,5.0
+WJ200-040HF,493.8,In Stock,Constant Torque,,5.0,4.0
+C1-040HFU2,493.8,In Stock,Constant Torque,,5.0,
+ODP-2-22010-1HF42-MN,571.2,2-4 Weeks,,,1.0,75.0
+ODE-3-320240-3F42,628.8,In Stock,,,5.0,
+ODE-3-340140-3F42,628.8,In Stock,,,5.0,
+OC2-300,506.0,3-5 Days,,,3.0,
+ODP-2-22020-1HF42-MN,588.96,2-4 Weeks,,,2.0,5.0
+EP66-0004S2I1U5,569.03,In Stock,Constant Torque,VFD,5.0,4.0
+ODP-2-24010-3HF42-MN,593.28,In Stock,,,1.0,75.0
+EP66-0004T2I1U5,574.62,In Stock,Constant Torque,VFD,5.0,4.0
+EP66-0007T2I1U5,575.27,In Stock,Constant Torque,VFD,1.0,75.0
+EP66-0007S2I1U5,577.58,In Stock,Constant Torque,VFD,1.0,75.0
+EM30-0022T3J1U5,578.28,In Stock,VF Control,VFD,3.0,2.0
+P1-00156-LFUF,642.6,In Stock,Constant Torque,VFD,3.0,2.0
+E2100-0075T3E4,593.18,In Stock,Closed-loop Vector Control,VFD,10.0,8.0
+P1-00041-HFUF,667.8,In Stock,Constant Torque,VFD,1.0,75.0
+E2100-0055T2E5,602.84,In Stock,Closed-loop Vector Control,VFD,8.0,5.0
+ODE-3-210058-104B,681.6,2-4 Weeks,,,5.0,
+ODP-2-24020-3HF42-MN,641.28,In Stock,,,2.0,5.0
+ODP-2-22010-3HF42-MN,641.28,In Stock,,,1.0,75.0
+ODP-2-22030-1HF42-MN,645.6,2-4 Weeks,,,3.0,2.0
+EM30-0030T3J1U5,623.66,In Stock,VF Control,VFD,4.0,3.0
+ODE-3-240041-3F4B,705.6,In Stock,,,2.0,5.0
+EP66-0004T3I1U5,628.89,In Stock,Constant Torque,VFD,5.0,4.0
+ODE-3-320180-3F4A,710.4,In Stock,,,5.0,4.0
+ODE-3-220105-3F4B,710.4,In Stock,,,3.0,2.0
+ODP-2-22020-3HF42-MN,658.56,In Stock,,,2.0,5.0
+ODP-2-24030-3HF42-MN,659.04,In Stock,,,3.0,2.0
+EP66-0015S2I1U5,642.47,In Stock,Constant Torque,VFD,2.0,5.0
+ODE-3-320153-1042,724.8,In Stock,,,5.0,
+EP66-0015T2I1U5,648.6,In Stock,Constant Torque,VFD,2.0,5.0
+ODE-3-220105-1F4B,729.6,In Stock,,,3.0,2.0
+ODE-3-240058-3F4B,744.0,In Stock,,,3.0,2.0
+DRM025iR,599.0,2-4 Weeks,Din Rail Mountable,,4.0,
+EM30-0040T3J1U5,668.93,In Stock,VF Control,VFD,5.0,4.0
+ODE-3-240095-3F4A,753.6,In Stock,,,5.0,4.0
+WJ200-055LF,622.8,In Stock,Constant Torque,,5.0,5.0
+EP66-0022S2I1U5,686.1,In Stock,Constant Torque,VFD,3.0,2.0
+EP66-0007T3I1U5,691.5,In Stock,Constant Torque,VFD,1.0,75.0
+C1-055LFU2,622.8,In Stock,Constant Torque,,5.0,
+OC2-500,720.0,3-5 Days,,,5.0,
+ODE-3-340180-3F42,777.6,In Stock,,,10.0,
+EP66-0022T2I1U5,706.71,In Stock,Constant Torque,VFD,3.0,2.0
+DRM050iR,648.0,In Stock,Din Rail Mountable,,2.0,
+DRM050iR-1,648.0,In Stock,Din Rail Mountable,,4.0,
+EP66-0015T3I1U5,724.68,In Stock,Constant Torque,VFD,2.0,5.0
+P1-00054-HFUF,687.0,In Stock,Constant Torque,VFD,2.0,5.0
+WJ200-075HF,761.4,In Stock,Constant Torque,,10.0,5.0
+WJ200-055HF,677.4,In Stock,Constant Torque,,5.0,5.0
+C1-055HFU2,677.4,In Stock,Constant Torque,,5.0,
+E2100-0110T3E5,769.22,In Stock,Closed-loop Vector Control,VFD,15.0,11.0
+ODP-2-24050-3HF42-MN,803.04,In Stock,,,5.0,4.0
+ODP-2-22030-3HF42-MN,803.04,In Stock,,,3.0,2.0
+EP66-0022T3I1U5,791.46,In Stock,Constant Torque,VFD,3.0,2.0
+ODE-3-320180-3F4B,892.8,In Stock,,,5.0,4.0
+DRM075iR,718.0,In Stock,Din Rail Mountable,,4.0,
+WJ200-075LF,751.8,In Stock,Constant Torque,,10.0,5.0
+DRM100iR,738.0,In Stock,Din Rail Mountable,,1.0,
+DRM100iR-1,738.0,In Stock,Din Rail Mountable,,2.0,
+EP66-0030T3I1U5,826.31,In Stock,Constant Torque,VFD,4.0,3.0
+E2100-0150T3E5,829.68,In Stock,Closed-loop Vector Control,VFD,20.0,15.0
+ODE-3-240095-3F4B,931.2,In Stock,,,5.0,4.0
+C1-075LFU2,751.8,In Stock,Constant Torque,,10.0,
+ODE-3-340140-3F4A,940.8,In Stock,,,5.0,5.0
+ODP-2-24050-3HF42-MN,803.04,In Stock,,,,
+C1-075HFU2,761.4,In Stock,Constant Torque,,10.0,
+E2100-0075T2E6,847.41,In Stock,Closed-loop Vector Control,VFD,10.0,5.0
+ODE-3-340240-3F42,957.6,In Stock,,,15.0,
+ODE-3-320240-3F4A,960.0,In Stock,,,5.0,5.0
+DRM150iR-1,770.0,In Stock,Din Rail Mountable,,4.0,
+P1-00460-LFUF,817.2,In Stock,Constant Torque,VFD,10.0,5.0
+P1-00250-HFUF,839.4,In Stock,Constant Torque,VFD,10.0,5.0
+P1-00175-HFUF,811.2,In Stock,Constant Torque Hitachi,VFD,5.0,5.0
+C1-110LFU2,822.0,In Stock,Constant Torque,,15.0,
+E2100-0110T2E6,918.66,In Stock,Closed-loop Vector Control,VFD,15.0,11.0
+DRM200iR,849.0,In Stock,Din Rail Mountable,,2.0,
+DRM200iR-1,849.0,In Stock,Din Rail Mountable,,1.0,
+ODE-3-420300-3F42,1065.6,In Stock,,,10.0,
+EP66-0040T3I1U5,968.93,In Stock,Constant Torque,VFD,25.0,4.0
+ODE-3-320153-1F4A,1010.4,In Stock,,,5.0,4.0
+P1-00310-HFUF,938.4,In Stock,Constant Torque,VFD,15.0,11.0
+ODE-3-340180-3F4A,1123.2,In Stock,,,10.0,5.0
+ODE-3-340140-3F4B,1123.2,In Stock,,,5.0,5.0
+P1-00600-LFUF,906.6,In Stock,Constant Torque,VFD,15.0,11.0
+ODE-3-320240-3F4B,1147.2,In Stock,,,5.0,5.0
+EP66-0055T3I2U5,1029.08,In Stock,Constant Torque,VFD,5.0,5.0
+C1-110HFU2,941.4,In Stock,Constant Torque,,15.0,
+ODE-3-420300-3F4A,1204.8,In Stock,,,10.0,5.0
+ODE-3-420460-3F42,1224.0,In Stock,,,15.0,
+PRD2-200,1030.0,2-4 Weeks,,,2.0,
+ODE-3-340180-3F4B,1310.4,In Stock,,,10.0,5.0
+ODE-3-320153-1F4B,1255.2,In Stock,,,5.0,4.0
+ODP-2-34100-3HF42-MN,1263.36,In Stock,,,10.0,5.0
+ODP-2-32050-3HF42-MN,1265.28,In Stock,,,5.0,2.0
+ODE-3-420300-3F4B,1392.0,In Stock,,,10.0,5.0
+ODP-2-34075-3HF42-MN,1125.6,In Stock,,,5.0,5.0
+C1-150LFU2,1168.8,In Stock,Constant Torque,,20.0,
+WJ200-150LF,1168.8,In Stock,Constant Torque,,20.0,15.0
+WJ200-150HF,1218.6,In Stock,Constant Torque,,20.0,15.0
+ODP-2-34150-3HF42-MN,1376.64,In Stock,,,15.0,11.0
+ODP-2-32075-3HF42-MN,1383.36,In Stock,,,5.0,5.0
+P1-00400-HFUF,1284.6,In Stock,Constant Torque,VFD,20.0,15.0
+C1-150HFU2,1218.6,In Stock,Constant Torque,,20.0,
+ODE-3-440300-3F42,1536.0,In Stock,,,20.0,
+ODE-420240-104A,1331.2,2-4 Weeks,,,5.0,5.0
+ODE-3-340240-3F4A,1689.6,In Stock,,,15.0,11.0
+P1-00800-LFUF,1367.4,In Stock,Constant Torque,VFD,20.0,15.0
+P1-00470-HFUF,1389.6,In Stock,Constant Torque,VFD,25.0,5.0
+ODE-3-420460-3F4A,1737.6,In Stock,,,15.0,11.0
+ODP-2-44150-3HF4N-MN,1745.47,In Stock,NEMA,,15.0,11.0
+ODE-3-340240-3F4B,1800.0,In Stock,,,15.0,11.0
+P1-00620-HFUF,1447.2,In Stock,Constant Torque,VFD,30.0,22.0
+ODE-3-440390-3F42,1852.8,In Stock,,,25.0,
+ODE-3-520610-3F42,1800.0,In Stock,,,20.0,
+ODP-2-42100-3HF42-MN,1749.6,In Stock,,,10.0,5.0
+ODP-2-44200-3HF42-MN,1758.72,In Stock,,,20.0,15.0
+P1-00930-LFUF,1558.2,In Stock,Constant Torque,VFD,25.0,5.0
+ODE-3-420240-104B,1824.0,In Stock,,,5.0,5.0
+ODE-3-420300-104A,1848.0,In Stock,,,10.0,5.0
+ODP-2-42150-3HF42-MN,1893.6,In Stock,,,15.0,5.0
+ODP-2-44250-3HF42-MN,1900.32,In Stock,,,25.0,5.0
+ODE-3-440460-3F42,2068.8,In Stock,,,30.0,
+ODE-3-440300-3F4A,2073.6,In Stock,,,20.0,15.0
+ODE-3-520720-3F42,1920.0,2-4 Weeks,,,25.0,
+ODP-2-44250-3HF4N-MN,2090.2,In Stock,NEMA,,25.0,5.0
+ODP-2-44200-3HF4N-MN,1939.66,In Stock,NEMA,,20.0,15.0
+ODE-3-420460-3F4B,2131.2,In Stock,,,15.0,11.0
+ODP-2-44300-3HF42-MN,2044.38,In Stock,,,30.0,22.0
+ODP-2-44300-3HF4N-MN,2256.02,2-4 Weeks,NEMA,,30.0,22.0
+ODE-3-420300-104B,2088.0,In Stock,,,10.0,5.0
+ODP-2-42150-3HF4N-MN,2120.75,2-4 Weeks,NEMA,,15.0,11.0
+ODE-3-440300-3F4B,2308.8,In Stock,,,20.0,15.0
+P1-01240-LFUF,1892.4,In Stock,Constant Torque,VFD,30.0,22.0
+ODE-3-440390-3F4A,2433.6,In Stock,,,25.0,5.0
+D2Q1-50-1,1987.0,In Stock,,,3.0,
+D2Q1-50,1987.0,In Stock,,,5.0,
+ODE-3-540610-3F42,2304.0,In Stock,,,40.0,
+D2Q1-100-1,2000.0,In Stock,,,5.0,
+D2Q1-150-1,2190.0,In Stock,,,5.0,
+D2Q1-100,2000.0,In Stock,,,10.0,
+D2Q1-150,2190.0,In Stock,,,15.0,
+D4Q1-150,2190.0,In Stock,,,15.0,
+BHP-30,2337.0,In Stock,Non Regenerative,,3.0,
+BHP-50,2337.0,In Stock,Non Regenerative,,5.0,
+BHP-75,2337.0,In Stock,Non Regenerative,,5.0,
+BHP-100,2337.0,In Stock,Non Regenerative,,10.0,
+D4Q1-50,2046.0,In Stock,,,5.0,
+D4Q1-50-1,2046.0,In Stock,,,3.0,
+ODP-2-54040-3HF42-MN,2631.3,In Stock,,,40.0,
+ODE-3-440390-3F4B,2668.8,In Stock,,,25.0,5.0
+D4Q1-100,2148.0,In Stock,,,10.0,
+D4Q1-100-1,2148.0,In Stock,,,5.0,
+D4Q1-150-1,2190.0,In Stock,,,5.0,
+P1-00770-HFUF,2210.4,In Stock,Constant Torque,VFD,40.0,30.0
+ODE-3-440460-3F4A,2788.8,In Stock,,,30.0,22.0
+D4Q1-200-1,2375.0,In Stock,,,10.0,
+D4Q1-200,2375.0,In Stock,,,20.0,
+ODP-2-52020-3HF42-MN,2614.08,In Stock,,,20.0,11.0
+BHP-31,2605.0,In Stock,Non Regenerative,,3.0,
+BHP-51,2605.0,In Stock,Non Regenerative,,5.0,
+BHP-76,2605.0,In Stock,Non Regenerative,,5.0,
+BHP-101,2605.0,In Stock,Non Regenerative,,10.0,
+BHP-151,2605.0,In Stock,Non Regenerative,,15.0,
+BHP-201,2605.0,In Stock,Non Regenerative,,20.0,
+BHP-150,2623.0,In Stock,Non Regenerative,,15.0,
+ODP-2-52020-3HF4N-MN,2884.39,2-4 Weeks,NEMA,,20.0,15.0
+ODP-2-54040-3HF4N-MN,2886.57,In Stock,NEMA,,40.0,30.0
+D2Q1-200-1,2325.0,In Stock,,,10.0,
+D2Q1-200,2325.0,In Stock,,,20.0,
+P1-01530-LFUF,2541.0,In Stock,Constant Torque,VFD,40.0,30.0
+ODE-3-440460-3F4B,3024.0,In Stock,,,30.0,22.0
+ODE-3-540720-3F42,2808.0,2-4 Weeks,,,50.0,
+ODP-2-52025-3HF42-MN,2836.32,In Stock,,,25.0,5.0
+BHP-301,3020.0,In Stock,Non Regenerative,,30.0,
+ODP-2-54050-3HF4N-MN,3157.12,In Stock,NEMA,,50.0,40.0
+P1-00930-HFUF,2575.8,In Stock,Constant Torque,VFD,50.0,37.0
+ODP-2-52025-3HF4N-MN,3082.94,2-4 Weeks,NEMA,,25.0,5.0
+BHP-251,2605.0,In Stock,Non Regenerative,,25.0,
+BHP-401,3020.0,In Stock,Non Regenerative,,40.0,
+BHP-200,2755.0,2-4 Weeks,Non Regenerative,,20.0,
+D2Q1-400,2900.0,In Stock,,,40.0,
+D4Q1-600,2900.0,In Stock,,,60.0,
+D2Q1-500,2900.0,In Stock,,,50.0,
+D2Q1-600,2900.0,In Stock,,,60.0,
+D4Q1-300-1,2900.0,In Stock,,,15.0,
+D4Q1-400-1,2900.0,In Stock,,,20.0,
+D4Q1-250,2900.0,In Stock,,,25.0,
+D2Q1-300-1,2900.0,In Stock,,,15.0,
+D4Q1-500-1,2900.0,In Stock,,,25.0,
+D4Q1-300,2900.0,In Stock,,,30.0,
+D2Q1-400-1,2900.0,In Stock,,,20.0,
+D4Q1-600-1,2900.0,In Stock,,,30.0,
+D2Q1-250,2900.0,In Stock,,,25.0,
+D4Q1-400,2900.0,In Stock,,,40.0,
+D2Q1-500-1,2900.0,In Stock,,,25.0,
+D2Q1-300,2900.0,In Stock,,,30.0,
+D2Q1-600-1,2900.0,In Stock,,,30.0,
+D4Q1-500,2900.0,In Stock,,,50.0,
+D2Q1-750-1,2990.0,In Stock,,,40.0,
+D4Q1-750,2990.0,2-4 Weeks,,,75.0,
+D2Q1-750,2990.0,2-4 Weeks,,,75.0,
+D4Q1-750-1,2990.0,2-4 Weeks,,,40.0,
+P1-01850-LFUF,3052.8,In Stock,Constant Torque,VFD,50.0,37.0
+P1-01160-HFUF,3065.4,In Stock,Constant Torque,VFD,60.0,45.0
+ODP-2-64060-3HF42-MN,4032.04,In Stock,,,60.0,
+ODP-2-62030-3HF42-MN,4032.0,In Stock,,,30.0,22.0
+D2Q1-1000-1,3600.0,In Stock,,,50.0,
+D4Q1-1000,3600.0,In Stock,,,100.0,
+D2Q1-1000,3600.0,In Stock,,,100.0,
+D4Q1-1000-1,3600.0,In Stock,,,50.0,
+ODP-2-62030-3HF4N-MN,4512.05,In Stock,NEMA,,30.0,22.0
+ODP-2-64060-3HF4N-MN,4512.05,In Stock,NEMA,,60.0,45.0
+D4Q1-1250-1,3710.0,In Stock,,,60.0,
+D2Q1-1250-1,3710.0,In Stock,,,60.0,
+D4Q1-1250,3710.0,In Stock,,,125.0,
+D2Q1-1250,3710.0,In Stock,,,125.0,
+P1-02290-LFUF,3768.6,In Stock,Constant Torque,VFD,60.0,45.0
+D4Q1-1500-1,3800.0,In Stock,,,75.0,
+D2Q1-1500-1,3800.0,In Stock,,,75.0,
+D4Q1-1500,3800.0,In Stock,,,150.0,
+D2Q1-1500,3800.0,In Stock,,,150.0,
+D4Q1-2000-1,3950.0,In Stock,,,100.0,
+D2Q1-2000-1,3950.0,In Stock,,,100.0,
+D4Q1-2000,3950.0,In Stock,,,200.0,
+D2Q1-2000,3950.0,In Stock,,,200.0,
+ODP-2-62040-3HF42-MN,4839.36,In Stock,,,40.0,30.0
+ODP-2-62040-3HF4N-MN,5413.15,In Stock,NEMA,,40.0,30.0
+ODP-2-64075-3HF4N-MN,5413.15,In Stock,NEMA,,75.0,55.0
+ODP-2-64120-3HF42-MN,5912.79,In Stock,,,100.0,
+P1-01760-HFUF,4833.6,In Stock,Constant Torque,VFD,100.0,75.0
+ODP-2-64075-3HF42-MN,4839.32,In Stock,,,75.0,
+ODP-2-62050-3HF42-MN,5912.64,2-4 Weeks,,,50.0,37.0
+ODP-2-64120-3HF4N-MN,6617.52,In Stock,NEMA,,100.0,75.0
+ODP-2-62050-3HF4N-MN,6617.52,2-4 Weeks,NEMA,,50.0,40.0
+ODP-2-62060-3HF42-MN,6715.68,2-4 Weeks,,,60.0,45.0
+ODP-2-64150-3HF42-MN,6715.7,In Stock,,,150.0,
+ODP-2-64150-3HF4N-MN,7518.62,In Stock,NEMA,,150.0,110.0
+ODP-2-62060-3HF4N-MN,7518.62,2-4 Weeks,NEMA,,60.0,45.0
+D4Q1-2500-1,6759.0,In Stock,,,125.0,
+D2Q1-2500-1,6759.0,In Stock,,,125.0,
+D4Q1-2500,6759.0,In Stock,,,250.0,
+D2Q1-2500,6759.0,In Stock,,,250.0,
+ODP-2-64175-3HF42-MN,7930.99,2-4 Weeks,,,175.0,
+P1-02520-HFUF,7534.2,In Stock,Constant Torque,VFD,150.0,110.0
+ODP-2-74175-3HF4N-MN,9323.0,2-4 Weeks,NEMA,,175.0,132.0
+ODP-2-72075-3HF4N-MN,9323.0,2-4 Weeks,NEMA,,75.0,55.0
+P1-03160-HFUF,8185.2,In Stock,Constant Torque,VFD,175.0,132.0
+ODP-2-72100-3HF4N-MN,10826.29,2-4 Weeks,NEMA,,100.0,75.0
+ODP-2-74200-3HF4N-MN,10826.29,2-4 Weeks,NEMA,,200.0,150.0
+ODP-2-74250-3HF4N-MN,12015.39,2-4 Weeks,NEMA,,250.0,185.0
+OC1-26,255.0,2-4 Weeks,,,4.0,
+OC1-50,245.0,2-4 Weeks,,,2.0,
+S-101A,255.0,Out of Stock,,,1.0,
+OC1-51,255.0,2-4 Weeks,,,2.0,
+OC1-75,245.0,2-4 Weeks,,,4.0,
+S-25A,245.0,Out of Stock,,,4.0,
+OC1-76,255.0,2-4 Weeks,,,4.0,
+S-26A,255.0,Out of Stock,,,,
+S-51A,255.0,Out of Stock,,,2.0,
+S-76A,255.0,Out of Stock,,,4.0,
+OC1-101,255.0,2-4 Weeks,,,1.0,
+OC1-151,255.0,2-4 Weeks,,,5.0,
+OC1-25,245.0,2-4 Weeks,,,4.0,
+NES1-004SB,233.0,Out of Stock,Variable Torque,VFD,2.0,4.0
+S-50A,245.0,Out of Stock,,,2.0,
+S-75A,245.0,Out of Stock,,,4.0,
+C1-007SFU2,247.2,Out of Stock,Constant Torque,,1.0,
+S-150A,255.0,Out of Stock,,,5.0,
+NES1-007SB,269.0,Out of Stock,Variable Torque,VFD,1.0,7.0
+WJ200-007MF,274.0,Out of Stock,Constant Torque,,,
+WJ200-007HF,294.6,Out of Stock,Constant Torque,,1.0,7.0
+WJ200-015LF,312.6,Out of Stock,Constant Torque,,2.0,5.0
+WJ200-015HF,315.6,Out of Stock,Constant Torque,,2.0,5.0
+NES1-022SB,359.0,Out of Stock,Variable Torque,VFD,3.0,2.0
+WJ200-022LF,372.6,Out of Stock,Constant Torque,,3.0,2.0
+DRM150i-1,431.0,2-4 Weeks,Din Rail Mountable,,4.0,
+SP-75,520.0,Out of Stock,,,4.0,
+SP-100,520.0,Out of Stock,,,1.0,
+SP-25,520.0,Out of Stock,,,4.0,
+SP-50,520.0,Out of Stock,,,2.0,
+SP-51,550.0,Out of Stock,,,2.0,
+SP-76,550.0,Out of Stock,,,4.0,
+SP-101,550.0,Out of Stock,,,1.0,
+SP-151,550.0,Out of Stock,,,5.0,
+SP-200,550.0,Out of Stock,,,2.0,
+SP-26,550.0,Out of Stock,,,4.0,
+P1-00228-LFUF,664.8,Out of Stock,Constant Torque,VFD,5.0,7.0
+P1-00330-LFUF,677.4,Out of Stock,Constant Torque Hitachi,VFD,5.0,5.0
+CT1-100,699.0,Out of Stock,,,,
+CT1-151,700.0,Out of Stock,,,,
+P1-00083-HFUF,734.4,Out of Stock,Constant Torque,VFD,3.0,2.0
+PRD2-50,830.0,2-4 Weeks,,,2.0,
+PRD2-66,830.0,2-4 Weeks,,,3.0,
+P1-00126-HFUF,763.2,Out of Stock,Constant Torque,VFD,5.0,7.0
+PRD2-51,915.0,2-4 Weeks,,,2.0,
+PRD2-101,915.0,2-4 Weeks,,,1.0,
+WJ200-110LF,822.0,Out of Stock,Constant Torque,,15.0,11.0
+CT1-201,900.0,Out of Stock,,,,
+PRD2i-50,830.0,2-4 Weeks,,,,
+WJ200-110HF,941.4,Out of Stock,Constant Torque,,15.0,11.0
+PRD2i-51,915.0,2-4 Weeks,,,,
+PRD2i-101,915.0,2-4 Weeks,,,,
+CT1-150,999.0,Out of Stock,,,,
+CT1-200,1199.0,Out of Stock,,,,
+CT1-300,1399.0,Out of Stock,,,,
+CT1-301,1499.0,Out of Stock,,,,
+PRD8-101,1800.0,2-4 Weeks,,,1.0,
+PRD8-150,1800.0,2-4 Weeks,,,5.0,
+PRD8-200,1800.0,2-4 Weeks,,,2.0,
+PRD8-300,1800.0,2-4 Weeks,,,3.0,
+PRD8-500,1800.0,2-4 Weeks,,,5.0,
+PRD8-51,1800.0,2-4 Weeks,,,2.0,
+PRD8-76,1800.0,2-4 Weeks,,,4.0,
+PRD8-750,1925.0,2-4 Weeks,,,5.0,
+CT1-400,1999.0,Out of Stock,,,40.0,30.0
+CT1-401,2099.0,Out of Stock,,,,
+ODP-2-54050-3HF42-MN,2858.21,Out of Stock,,,50.0,37.0
+CT1-501,2599.0,Out of Stock,,,,
+CT1-601,2899.0,Out of Stock,,,,
+CT1-500,3150.0,Out of Stock,,,,
+P1-01470-HFUF,3679.2,Out of Stock,Constant Torque,VFD,75.0,55.0
+CT1-600,3999.0,Out of Stock,,,,
+P1-02950-LFUF,4828.8,Out of Stock,Constant Torque,VFD,75.0,55.0
+P1-02130-HFUF,6137.4,Out of Stock,Constant Torque,VFD,125.0,90.0
+D2Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D4Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D4Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D2Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D2Q1-3500,9173.0,2-4 Weeks,,,350.0,
+D4Q1-3500,9273.0,2-4 Weeks,,,350.0,
+D4Q1-4500,10350.0,2-4 Weeks,,,450.0,
+D2Q1-4000,9609.0,2-4 Weeks,,,400.0,
+D4Q1-4000,9773.0,2-4 Weeks,,,400.0,
+D2Q1-4500,10114.0,2-4 Weeks,,,450.0,
+D2Q1-5000,10485.0,2-4 Weeks,,,500.0,
+P1-03720-HFUF,13350.0,Out of Stock,,,210.0,
+D4Q1-5000,10685.0,2-4 Weeks,,,500.0,
+P1-04320-HFUF,13485.0,Out of Stock,Constant Torque,VFD,250.0,185.0
+P1-04860-HFUF,14130.0,Out of Stock,Constant Torque,VFD,265.0,200.0
+P1-05200-HFUF,14725.0,Out of Stock,Constant Torque,VFD,300.0,220.0
+P1-05500-HFUF,16125.0,Out of Stock,Constant Torque,VFD,400.0,37.0
+P1-06600-HFUF,18445.0,Out of Stock,Constant Torque,VFD,450.0,300.0
+P1-00083-HFUF,734.4,Out of Stock,Constant Torque,VFD,3.0,2.0
+PRD2-50,830.0,2-4 Weeks,,,2.0,
+PRD2-66,830.0,2-4 Weeks,,,3.0,
+P1-00126-HFUF,763.2,Out of Stock,Constant Torque,VFD,5.0,7.0
+PRD2-51,915.0,2-4 Weeks,,,2.0,
+PRD2-101,915.0,2-4 Weeks,,,1.0,
+WJ200-110LF,822.0,Out of Stock,Constant Torque,,15.0,11.0
+CT1-201,900.0,Out of Stock,,,,
+PRD2i-50,830.0,2-4 Weeks,,,,
+WJ200-110HF,941.4,Out of Stock,Constant Torque,,15.0,11.0
+PRD2i-51,915.0,2-4 Weeks,,,,
+PRD2i-101,915.0,2-4 Weeks,,,,
+CT1-150,999.0,Out of Stock,,,,
+CT1-200,1199.0,Out of Stock,,,,
+CT1-300,1399.0,Out of Stock,,,,
+CT1-301,1499.0,Out of Stock,,,,
+PRD8-101,1800.0,2-4 Weeks,,,1.0,
+PRD8-150,1800.0,2-4 Weeks,,,5.0,
+PRD8-200,1800.0,2-4 Weeks,,,2.0,
+PRD8-300,1800.0,2-4 Weeks,,,3.0,
+PRD8-500,1800.0,2-4 Weeks,,,5.0,
+PRD8-51,1800.0,2-4 Weeks,,,2.0,
+PRD8-76,1800.0,2-4 Weeks,,,4.0,
+PRD8-750,1925.0,2-4 Weeks,,,5.0,
+CT1-400,1999.0,Out of Stock,,,40.0,30.0
+CT1-401,2099.0,Out of Stock,,,,
+ODP-2-54050-3HF42-MN,2858.21,Out of Stock,,,50.0,37.0
+CT1-501,2599.0,Out of Stock,,,,
+CT1-601,2899.0,Out of Stock,,,,
+CT1-500,3150.0,Out of Stock,,,,
+P1-01470-HFUF,3679.2,Out of Stock,Constant Torque,VFD,75.0,55.0
+CT1-600,3999.0,Out of Stock,,,,
+P1-02950-LFUF,4828.8,Out of Stock,Constant Torque,VFD,75.0,55.0
+P1-02130-HFUF,6137.4,Out of Stock,Constant Torque,VFD,125.0,90.0
+D2Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D4Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D4Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D2Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D2Q1-3500,9173.0,2-4 Weeks,,,350.0,
+D4Q1-3500,9273.0,2-4 Weeks,,,350.0,
+D4Q1-4500,10350.0,2-4 Weeks,,,450.0,
+D2Q1-4000,9609.0,2-4 Weeks,,,400.0,
+D4Q1-4000,9773.0,2-4 Weeks,,,400.0,
+D2Q1-4500,10114.0,2-4 Weeks,,,450.0,
+D2Q1-5000,10485.0,2-4 Weeks,,,500.0,
+P1-03720-HFUF,13350.0,Out of Stock,,,210.0,
+D4Q1-5000,10685.0,2-4 Weeks,,,500.0,
+P1-04320-HFUF,13485.0,Out of Stock,Constant Torque,VFD,250.0,185.0
+P1-04860-HFUF,14130.0,Out of Stock,Constant Torque,VFD,265.0,200.0
+P1-05200-HFUF,14725.0,Out of Stock,Constant Torque,VFD,300.0,220.0
+P1-05500-HFUF,16125.0,Out of Stock,Constant Torque,VFD,400.0,37.0
+P1-06600-HFUF,18445.0,Out of Stock,Constant Torque,VFD,450.0,300.0
+P1-00083-HFUF,734.4,Out of Stock,Constant Torque,VFD,3.0,2.0
+PRD2-50,830.0,2-4 Weeks,,,2.0,
+PRD2-66,830.0,2-4 Weeks,,,3.0,
+P1-00126-HFUF,763.2,Out of Stock,Constant Torque,VFD,5.0,7.0
+PRD2-51,915.0,2-4 Weeks,,,2.0,
+PRD2-101,915.0,2-4 Weeks,,,1.0,
+WJ200-110LF,822.0,Out of Stock,Constant Torque,,15.0,11.0
+CT1-201,900.0,Out of Stock,,,,
+PRD2i-50,830.0,2-4 Weeks,,,,
+WJ200-110HF,941.4,Out of Stock,Constant Torque,,15.0,11.0
+PRD2i-51,915.0,2-4 Weeks,,,,
+PRD2i-101,915.0,2-4 Weeks,,,,
+CT1-150,999.0,Out of Stock,,,,
+CT1-200,1199.0,Out of Stock,,,,
+CT1-300,1399.0,Out of Stock,,,,
+CT1-301,1499.0,Out of Stock,,,,
+PRD8-101,1800.0,2-4 Weeks,,,1.0,
+PRD8-150,1800.0,2-4 Weeks,,,5.0,
+PRD8-200,1800.0,2-4 Weeks,,,2.0,
+PRD8-300,1800.0,2-4 Weeks,,,3.0,
+PRD8-500,1800.0,2-4 Weeks,,,5.0,
+PRD8-51,1800.0,2-4 Weeks,,,2.0,
+PRD8-76,1800.0,2-4 Weeks,,,4.0,
+PRD8-750,1925.0,2-4 Weeks,,,5.0,
+CT1-400,1999.0,Out of Stock,,,40.0,30.0
+CT1-401,2099.0,Out of Stock,,,,
+ODP-2-54050-3HF42-MN,2858.21,Out of Stock,,,50.0,37.0
+CT1-501,2599.0,Out of Stock,,,,
+CT1-601,2899.0,Out of Stock,,,,
+CT1-500,3150.0,Out of Stock,,,,
+P1-01470-HFUF,3679.2,Out of Stock,Constant Torque,VFD,75.0,55.0
+CT1-600,3999.0,Out of Stock,,,,
+P1-02950-LFUF,4828.8,Out of Stock,Constant Torque,VFD,75.0,55.0
+P1-02130-HFUF,6137.4,Out of Stock,Constant Torque,VFD,125.0,90.0
+D2Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D4Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D4Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D2Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D2Q1-3500,9173.0,2-4 Weeks,,,350.0,
+D4Q1-3500,9273.0,2-4 Weeks,,,350.0,
+D4Q1-4500,10350.0,2-4 Weeks,,,450.0,
+D2Q1-4000,9609.0,2-4 Weeks,,,400.0,
+D4Q1-4000,9773.0,2-4 Weeks,,,400.0,
+D2Q1-4500,10114.0,2-4 Weeks,,,450.0,
+D2Q1-5000,10485.0,2-4 Weeks,,,500.0,
+P1-03720-HFUF,13350.0,Out of Stock,,,210.0,
+D4Q1-5000,10685.0,2-4 Weeks,,,500.0,
+P1-04320-HFUF,13485.0,Out of Stock,Constant Torque,VFD,250.0,185.0
+P1-04860-HFUF,14130.0,Out of Stock,Constant Torque,VFD,265.0,200.0
+P1-05200-HFUF,14725.0,Out of Stock,Constant Torque,VFD,300.0,220.0
+P1-05500-HFUF,16125.0,Out of Stock,Constant Torque,VFD,400.0,37.0
+P1-06600-HFUF,18445.0,Out of Stock,Constant Torque,VFD,450.0,300.0
+P1-00083-HFUF,734.4,Out of Stock,Constant Torque,VFD,3.0,2.0
+PRD2-50,830.0,2-4 Weeks,,,2.0,
+PRD2-66,830.0,2-4 Weeks,,,3.0,
+P1-00126-HFUF,763.2,Out of Stock,Constant Torque,VFD,5.0,7.0
+PRD2-51,915.0,2-4 Weeks,,,2.0,
+PRD2-101,915.0,2-4 Weeks,,,1.0,
+WJ200-110LF,822.0,Out of Stock,Constant Torque,,15.0,11.0
+CT1-201,900.0,Out of Stock,,,,
+PRD2i-50,830.0,2-4 Weeks,,,,
+WJ200-110HF,941.4,Out of Stock,Constant Torque,,15.0,11.0
+PRD2i-51,915.0,2-4 Weeks,,,,
+PRD2i-101,915.0,2-4 Weeks,,,,
+CT1-150,999.0,Out of Stock,,,,
+CT1-200,1199.0,Out of Stock,,,,
+CT1-300,1399.0,Out of Stock,,,,
+CT1-301,1499.0,Out of Stock,,,,
+PRD8-101,1800.0,2-4 Weeks,,,1.0,
+PRD8-150,1800.0,2-4 Weeks,,,5.0,
+PRD8-200,1800.0,2-4 Weeks,,,2.0,
+PRD8-300,1800.0,2-4 Weeks,,,3.0,
+PRD8-500,1800.0,2-4 Weeks,,,5.0,
+PRD8-51,1800.0,2-4 Weeks,,,2.0,
+PRD8-76,1800.0,2-4 Weeks,,,4.0,
+PRD8-750,1925.0,2-4 Weeks,,,5.0,
+CT1-400,1999.0,Out of Stock,,,40.0,30.0
+CT1-401,2099.0,Out of Stock,,,,
+ODP-2-54050-3HF42-MN,2858.21,Out of Stock,,,50.0,37.0
+CT1-501,2599.0,Out of Stock,,,,
+CT1-601,2899.0,Out of Stock,,,,
+CT1-500,3150.0,Out of Stock,,,,
+P1-01470-HFUF,3679.2,Out of Stock,Constant Torque,VFD,75.0,55.0
+CT1-600,3999.0,Out of Stock,,,,
+P1-02950-LFUF,4828.8,Out of Stock,Constant Torque,VFD,75.0,55.0
+P1-02130-HFUF,6137.4,Out of Stock,Constant Torque,VFD,125.0,90.0
+D2Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D4Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D4Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D2Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D2Q1-3500,9173.0,2-4 Weeks,,,350.0,
+D4Q1-3500,9273.0,2-4 Weeks,,,350.0,
+D4Q1-4500,10350.0,2-4 Weeks,,,450.0,
+D2Q1-4000,9609.0,2-4 Weeks,,,400.0,
+D4Q1-4000,9773.0,2-4 Weeks,,,400.0,
+D2Q1-4500,10114.0,2-4 Weeks,,,450.0,
+D2Q1-5000,10485.0,2-4 Weeks,,,500.0,
+P1-03720-HFUF,13350.0,Out of Stock,,,210.0,
+D4Q1-5000,10685.0,2-4 Weeks,,,500.0,
+P1-04320-HFUF,13485.0,Out of Stock,Constant Torque,VFD,250.0,185.0
+P1-04860-HFUF,14130.0,Out of Stock,Constant Torque,VFD,265.0,200.0
+P1-05200-HFUF,14725.0,Out of Stock,Constant Torque,VFD,300.0,220.0
+P1-05500-HFUF,16125.0,Out of Stock,Constant Torque,VFD,400.0,37.0
+P1-06600-HFUF,18445.0,Out of Stock,Constant Torque,VFD,450.0,300.0
+P1-00083-HFUF,734.4,Out of Stock,Constant Torque,VFD,3.0,2.0
+PRD2-50,830.0,2-4 Weeks,,,2.0,
+PRD2-66,830.0,2-4 Weeks,,,3.0,
+P1-00126-HFUF,763.2,Out of Stock,Constant Torque,VFD,5.0,7.0
+PRD2-51,915.0,2-4 Weeks,,,2.0,
+PRD2-101,915.0,2-4 Weeks,,,1.0,
+WJ200-110LF,822.0,Out of Stock,Constant Torque,,15.0,11.0
+CT1-201,900.0,Out of Stock,,,,
+PRD2i-50,830.0,2-4 Weeks,,,,
+WJ200-110HF,941.4,Out of Stock,Constant Torque,,15.0,11.0
+PRD2i-51,915.0,2-4 Weeks,,,,
+PRD2i-101,915.0,2-4 Weeks,,,,
+CT1-150,999.0,Out of Stock,,,,
+CT1-200,1199.0,Out of Stock,,,,
+CT1-300,1399.0,Out of Stock,,,,
+CT1-301,1499.0,Out of Stock,,,,
+PRD8-101,1800.0,2-4 Weeks,,,1.0,
+PRD8-150,1800.0,2-4 Weeks,,,5.0,
+PRD8-200,1800.0,2-4 Weeks,,,2.0,
+PRD8-300,1800.0,2-4 Weeks,,,3.0,
+PRD8-500,1800.0,2-4 Weeks,,,5.0,
+PRD8-51,1800.0,2-4 Weeks,,,2.0,
+PRD8-76,1800.0,2-4 Weeks,,,4.0,
+PRD8-750,1925.0,2-4 Weeks,,,5.0,
+CT1-400,1999.0,Out of Stock,,,40.0,30.0
+CT1-401,2099.0,Out of Stock,,,,
+ODP-2-54050-3HF42-MN,2858.21,Out of Stock,,,50.0,37.0
+CT1-501,2599.0,Out of Stock,,,,
+CT1-601,2899.0,Out of Stock,,,,
+CT1-500,3150.0,Out of Stock,,,,
+P1-01470-HFUF,3679.2,Out of Stock,Constant Torque,VFD,75.0,55.0
+CT1-600,3999.0,Out of Stock,,,,
+P1-02950-LFUF,4828.8,Out of Stock,Constant Torque,VFD,75.0,55.0
+P1-02130-HFUF,6137.4,Out of Stock,Constant Torque,VFD,125.0,90.0
+D2Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D4Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D4Q1-3000,7569.0,2-4 Weeks,,,300.0,
+D2Q1-3000-1,7569.0,2-4 Weeks,,,150.0,
+D2Q1-3500,9173.0,2-4 Weeks,,,350.0,
+D4Q1-3500,9273.0,2-4 Weeks,,,350.0,
+D4Q1-4500,10350.0,2-4 Weeks,,,450.0,
+D2Q1-4000,9609.0,2-4 Weeks,,,400.0,
+D4Q1-4000,9773.0,2-4 Weeks,,,400.0,
+D2Q1-4500,10114.0,2-4 Weeks,,,450.0,
+D2Q1-5000,10485.0,2-4 Weeks,,,500.0,
+P1-03720-HFUF,13350.0,Out of Stock,,,210.0,
+D4Q1-5000,10685.0,2-4 Weeks,,,500.0,
+P1-04320-HFUF,13485.0,Out of Stock,Constant Torque,VFD,250.0,185.0
+P1-04860-HFUF,14130.0,Out of Stock,Constant Torque,VFD,265.0,200.0
+P1-05200-HFUF,14725.0,Out of Stock,Constant Torque,VFD,300.0,220.0
+P1-05500-HFUF,16125.0,Out of Stock,Constant Torque,VFD,400.0,37.0
+P1-06600-HFUF,18445.0,Out of Stock,Constant Torque,VFD,450.0,300.0
